@@ -1,15 +1,15 @@
-# 👨‍💻 Yaswanth | AI & Backend Engineer  
+# 👨‍💻 Yaswanth Vanacharla | AI & Backend Engineer  
 
-Hi there 👋 I'm **Yaswanth**, a Computer Science student specializing in **AI systems** and **backend engineering**.  
-I love building intelligent tools — especially chatbots powered by Groq and other AI APIs — and structuring projects with clean, recruiter-ready documentation.  
+Hi there 👋 I'm **Yaswanth Vanacharla**, a Computer Science student passionate about building **AI-powered systems** and **backend solutions**.  
+I specialize in **Flask, Groq API integration, and backend troubleshooting**, and I enjoy turning ideas into practical tools with clean, recruiter-ready documentation.  
 
 ---
 
-## 🚀 What I'm Working On
-- 🤖 Building chatbots with **Flask + Groq API**  
-- 🧩 Debugging backend pipelines and API integrations  
-- 📦 Packaging ML projects with clear roles and documentation  
-- 📁 Refactoring scripts for clarity and portfolio polish  
+## ✨ About Me
+- 🎓 CS Student | Focused on **AI & Backend Engineering**  
+- 🤖 Building intelligent chatbots and backend systems with **Flask + Groq API**  
+- ⚡ Exploring **ML projects, database integration, and deployment workflows**  
+- 📚 Always learning, iterating, and polishing projects for **portfolio & recruiters**  
 
 ---
 
@@ -26,17 +26,17 @@ I love building intelligent tools — especially chatbots powered by Groq and ot
 ---
 
 ## 📈 GitHub Analytics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth-AIML&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yaswanth-AIML&theme=radical)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=yaswanth-AIML&theme=darkhub&margin-w=15)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth-AIML&layout=compact&theme=tokyonight)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yaswanth-AIML&theme=tokyonight)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=yaswanth-AIML&theme=onedark&margin-w=15)  
 
 ---
 
 ## 🌐 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/yaswanth-AIML)  
+- [LinkedIn](https://www.linkedin.com/in/yaswanth-vanacharla)  
 - [Email](mailto:yaswanthvanacharla@gmail.com)  
 - [GitHub](https://github.com/yaswanth-AIML)  
 
 ---
 
-✨ *“Turning boredom into productivity — one AI-powered project at a time.”*  
+✨ *“Turning ideas into intelligent systems — one project at a time.”*  
